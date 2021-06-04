@@ -6,12 +6,25 @@
 
 [![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/mohamed3nan/jetbrains-darcula-theme.svg)](http://isitmaintained.com/project/mohamed3nan/jetbrains-darcula-theme "Average time to resolve an issue")
 [![Percentage of issues still open](https://isitmaintained.com/badge/open/mohamed3nan/jetbrains-darcula-theme.svg)](http://isitmaintained.com/project/mohamed3nan/jetbrains-darcula-theme "Percentage of issues still open")
+
+
 ## Description
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
+
+
 ## Installation
+Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
+
+```ext install Anan.jetbrains-darcula-theme```
+
+or:
+
 [Download from VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=Anan.jetbrains-darcula-theme)
+
+
 ## Why?!!
 I've tried most of Darcula themes available on VisualStudio Marketplace, none of them is close enough to the Jetbrains IDEs vibe for my liking, so I decided to create my own with some improvements.
+
 
 ## Screenshots
 Terminal
@@ -39,8 +52,8 @@ SCSS
 Dockerfile
 ![ScreenShot](screenshots/dockerfile.png)
 
-## Tweaks & theming
 
+## Tweaks & theming
 If you want to play around with new colors, use the setting
 `workbench.colorCustomizations` to customize the currently selected theme. For
 example, you can add this snippet in your "settings.json" file:
@@ -69,6 +82,7 @@ or use the setting `editor.tokenColorCustomizations`
   }
 }
 ```
+
 ### Italic 
 You could set this in your setting.json to make code be italic
 ```json
@@ -117,11 +131,13 @@ You could set this in your setting.json to make code be italic
   }
 ```
 
+
 Please check the official documentation,
 [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) and
 [Theme Color](https://code.visualstudio.com/docs/getstarted/themes), for more helpful information.
 
 [More info](https://code.visualstudio.com/updates/v1_15#_user-definable-syntax-highlighting-colors)
+
 
 ## Syntax Support
 - Python
@@ -134,8 +150,11 @@ Please check the official documentation,
 - CSS, SCSS
 - Dockerfile
 - More and more...
+
+
 ## Contribution
 If you want to add more syntax support or have any idea to improve highlighting, feel free to make a pull request or open a new issue.
+
 
 ## Resources
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
@@ -144,12 +163,15 @@ If you want to add more syntax support or have any idea to improve highlighting,
 - [PyCharm](https://www.jetbrains.com/pycharm/)
 - [WebStorm](https://www.jetbrains.com/webstorm/)
 
-## Changelog
 
+## Changelog
 [CHANGELOG](CHANGELOG.md)
+
+
 ## License
 This project is licensed under the MIT License - see the
 [MIT](LICENSE.txt) file for details.
+
 
 ---
 
