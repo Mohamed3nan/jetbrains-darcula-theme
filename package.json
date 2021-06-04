@@ -30,7 +30,32 @@
 		{
 			"url": "https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.svg",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
-			"description": "Extension version"
+			"description": "Version"
+		},
+        {
+			"url": "https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
+			"description": "Installs"
+		},
+        {
+			"url": "https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
+			"description": "Downloads"
+		},
+        {
+			"url": "https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
+			"description": "Rating"
+		},
+        {
+			"url": "https://isitmaintained.com/badge/resolution/mohamed3nan/jetbrains-darcula-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
+			"description": "Average time to resolve an issue"
+		},
+        {
+			"url": "https://isitmaintained.com/badge/open/mohamed3nan/jetbrains-darcula-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
+			"description": "Percentage of issues still open"
 		}
 	],
     "engines": {

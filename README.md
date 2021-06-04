@@ -1,6 +1,12 @@
 # JetBrains Darcula Theme for Visual Studio Code
-## Description
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.svg)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.svg)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.svg)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.svg)
 
+[![Average time to resolve an issue](https://isitmaintained.com/badge/resolution/mohamed3nan/jetbrains-darcula-theme.svg)](http://isitmaintained.com/project/mohamed3nan/jetbrains-darcula-theme "Average time to resolve an issue")
+[![Percentage of issues still open](https://isitmaintained.com/badge/open/mohamed3nan/jetbrains-darcula-theme.svg)](http://isitmaintained.com/project/mohamed3nan/jetbrains-darcula-theme "Percentage of issues still open")
+## Description
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
 ## Installation
 [Download from VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=Anan.jetbrains-darcula-theme)
