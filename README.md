@@ -1,4 +1,4 @@
-# README
+# JetBrains Darcula Theme for Visual Studio Code
 ## This is the README for your extension "jetbrains-darcula-theme"
 You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
 
