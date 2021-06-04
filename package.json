@@ -2,7 +2,37 @@
     "name": "jetbrains-darcula-theme",
     "displayName": "JetBrains Darcula Theme",
     "description": "A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements",
-    "version": "0.0.1",
+    "publisher": "Anan",
+    "version": "1.0.0",
+    "license": "MIT",
+    "icon": "theme-icon.png",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/mohamed3nan/JetBrains-Darcula-Theme"
+    },
+    "bugs": {
+		"url": "https://github.com/mohamed3nan/JetBrains-Darcula-Theme/issues"
+    },
+    "keywords": [
+		"theme",
+		"dark",
+        "dark theme",
+		"pycharm",
+        "pycharm theme",
+        "webstorm",
+        "webstorm theme",
+		"darcula",
+        "darcula theme",
+		"jetbrains",
+        "jetbrains theme"
+	],
+	"badges": [
+		{
+			"url": "https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.svg",
+			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
+			"description": "Extension version"
+		}
+	],
     "engines": {
         "vscode": "^1.56.0"
     },
