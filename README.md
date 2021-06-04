@@ -3,7 +3,7 @@
 
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
 ## Installation
-[Download from VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=)
+[Download from VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=Anan.jetbrains-darcula-theme)
 ## Why?!!
 I've tried most of Darcula themes available on VisualStudio Marketplace, none of them is close enough to the Jetbrains IDEs vibe for my liking, so I decided to create my own with some improvements.
 
