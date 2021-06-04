@@ -57,7 +57,7 @@ or use the setting `editor.tokenColorCustomizations`
 
 ```json
 "editor.tokenColorCustomizations": {
-  "[One Dark Pro]": {
+  "[JetBrains Darcula Theme]": {
     "textMateRules": [
       {
         "scope": ["source.python"],
