@@ -3,7 +3,7 @@
     "displayName": "JetBrains Darcula Theme",
     "description": "A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements",
     "publisher": "Anan",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "license": "MIT",
     "icon": "theme-icon.png",
     "repository": {
