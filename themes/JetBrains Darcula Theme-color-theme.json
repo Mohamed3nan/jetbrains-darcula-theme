@@ -37,7 +37,7 @@
 		"list.dropBackground": "#474b4d",
 		"list.focusBackground": "#505050",
 		"list.hoverBackground": "#505050",
-		"list.inactiveSelectionBackground": "#0B293F",
+		"list.inactiveSelectionBackground": "#313335",
 		"list.errorForeground": "#bbbbbb",
 		"list.warningForeground": "#bbbbbb",
 		"menu.background": "#3c3f41",
