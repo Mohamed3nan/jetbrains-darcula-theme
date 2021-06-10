@@ -27,31 +27,8 @@ I've tried most of Darcula themes available on VisualStudio Marketplace, none of
 
 
 ## Screenshots
-Terminal
-![ScreenShot](screenshots/terminal.png)
-Python
-![ScreenShot](screenshots/python.png)
-Javascript
-![ScreenShot](screenshots/javascript.png)
-Typescript
-![ScreenShot](screenshots/typescript.png)
-TypeScriptReact
-![ScreenShot](screenshots/typescriptreact.png)
-Vue
-![ScreenShot](screenshots/vue.png)
-HTML
-![ScreenShot](screenshots/html.png)
-Markdown
-![ScreenShot](screenshots/markdown.png)
-JSON
-![ScreenShot](screenshots/json.png)
-CSS
-![ScreenShot](screenshots/css.png)
-SCSS
-![ScreenShot](screenshots/scss.png)
-Dockerfile
-![ScreenShot](screenshots/dockerfile.png)
-
+![ScreenShot](screenshots/ScreenShots.gif)
+[View All ScreenShots](screenshots)
 
 ## Tweaks & theming
 If you want to play around with new colors, use the setting

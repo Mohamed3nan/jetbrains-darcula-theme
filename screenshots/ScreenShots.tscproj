@@ -1,0 +1,3312 @@
+{
+  "title" : "",
+  "description" : "",
+  "author" : "",
+  "targetLoudness" : -18.0,
+  "shouldApplyLoudnessNormalization" : true,
+  "videoFormatFrameRate" : 30,
+  "audioFormatSampleRate" : 44100,
+  "width" : 1920.0,
+  "height" : 1080.0,
+  "version" : "4.0",
+  "editRate" : 30,
+  "authoringClientName" :  {
+    "name" : "Camtasia",
+    "platform" : "Windows",
+    "version" : "20.0"
+  },
+  "sourceBin" : [
+    {
+      "id" : 1,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\css.png",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20210604T020018",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 2,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\dockerfile.png",
+      "rect" : [0, 0, 1920, 1036],
+      "lastMod" : "20210604T020243",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1036],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 3,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\html.png",
+      "rect" : [0, 0, 1920, 1042],
+      "lastMod" : "20210604T015337",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1042],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 4,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\javascript.png",
+      "rect" : [0, 0, 1920, 1041],
+      "lastMod" : "20210604T014034",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1041],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 5,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\json.png",
+      "rect" : [0, 0, 1920, 1040],
+      "lastMod" : "20210604T015931",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1040],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 6,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\markdown.png",
+      "rect" : [0, 0, 1911, 1035],
+      "lastMod" : "20210604T015739",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1911, 1035],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 7,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\python.png",
+      "rect" : [0, 0, 1915, 1041],
+      "lastMod" : "20210604T013415",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1915, 1041],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 8,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\scss.png",
+      "rect" : [0, 0, 1920, 1039],
+      "lastMod" : "20210604T020111",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1039],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 9,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\terminal.png",
+      "rect" : [0, 0, 1920, 1043],
+      "lastMod" : "20210604T012409",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1043],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 10,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\typescript.png",
+      "rect" : [0, 0, 1920, 1041],
+      "lastMod" : "20210604T014440",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1041],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 11,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\typescriptreact.png",
+      "rect" : [0, 0, 1920, 1040],
+      "lastMod" : "20210604T014705",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1040],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    },
+    {
+      "id" : 12,
+      "src" : "C:\\Users\\Mohamed Anan\\GitHub\\jetbrains-darcula-theme\\screenshots\\vue.png",
+      "rect" : [0, 0, 1920, 1038],
+      "lastMod" : "20210604T015209",
+      "sourceTracks" : [
+        {
+          "range" : [0, 1],
+          "type" : 1,
+          "editRate" : 10000000,
+          "trackRect" : [0, 0, 1920, 1038],
+          "sampleRate" : 0,
+          "bitDepth" : 24,
+          "numChannels" : 0,
+          "integratedLUFS" : 100.0,
+          "peakLevel" : -1.0,
+          "metaData" : ""
+        }
+      ],
+      "metadata" : {
+        "timeAdded" : "20210610T213024.601032"
+      }
+    }
+  ],
+  "timeline" : {
+    "id" : 13,
+    "sceneTrack" : {
+      "scenes" : [
+        {
+          "csml" : {
+            "tracks" : [
+              {
+                "trackIndex" : 0,
+                "medias" : [
+                ]
+              },
+              {
+                "trackIndex" : 1,
+                "medias" : [
+                  {
+                    "id" : 14,
+                    "_type" : "IMFile",
+                    "src" : 9,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 71,
+                    "attributes" : {
+                      "ident" : "terminal"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -9.49658129911768e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 2.6801671992871e-11,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03547459252157,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1043.0,
+                      "default-scale0" : 1.0,
+                      "default-scale1" : 1.0,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : -0.5,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 15,
+                    "_type" : "IMFile",
+                    "src" : 7,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "python"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -0.249999999899721,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -0.5,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.00287206266329,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03773414985602,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 90,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1041.0,
+                      "default-scale0" : 1.00261096605744,
+                      "default-scale1" : 1.03746397694524,
+                      "default-translation0" : -0.5,
+                      "default-width" : 1915.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 16,
+                    "_type" : "IMFile",
+                    "src" : 4,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "javascript"
+                    },
+                    "parameters" : {
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -0.5,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03746397694524,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 180,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1041.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 17,
+                    "_type" : "IMFile",
+                    "src" : 10,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "typescript"
+                    },
+                    "parameters" : {
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -0.5,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03746397694524,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 270,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1041.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 18,
+                    "_type" : "IMFile",
+                    "src" : 11,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "typescriptreact"
+                    },
+                    "parameters" : {
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03846153846154,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 360,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1040.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 19,
+                    "_type" : "IMFile",
+                    "src" : 12,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "vue"
+                    },
+                    "parameters" : {
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.04046242774566,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 450,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1038.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 20,
+                    "_type" : "IMFile",
+                    "src" : 3,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "html"
+                    },
+                    "parameters" : {
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03646833013436,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 540,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1042.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 21,
+                    "_type" : "IMFile",
+                    "src" : 6,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "markdown"
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -0.249999999940968,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -0.5,
+                        "interp" : "eioe"
+                      },
+                      "scale0" : {
+                        "type" : "double",
+                        "defaultValue" : 1.00470957613815,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.04347826086957,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 630,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1035.0,
+                      "default-scale0" : 1.00470957613815,
+                      "default-scale1" : 1.04347826086957,
+                      "default-translation0" : -0.5,
+                      "default-width" : 1911.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 22,
+                    "_type" : "IMFile",
+                    "src" : 5,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "json"
+                    },
+                    "parameters" : {
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03846153846154,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 720,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1040.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 23,
+                    "_type" : "IMFile",
+                    "src" : 1,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "css"
+                    },
+                    "parameters" : {
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03646833013436,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 810,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1042.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 24,
+                    "_type" : "IMFile",
+                    "src" : 8,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "scss"
+                    },
+                    "parameters" : {
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : -0.5,
+                        "interp" : "eioe"
+                      },
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.03946102021174,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 900,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1039.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 25,
+                    "_type" : "IMFile",
+                    "src" : 2,
+                    "trackNumber" : 0,
+                    "trimStartSum" : 0,
+                    "attributes" : {
+                      "ident" : "dockerfile"
+                    },
+                    "parameters" : {
+                      "scale1" : {
+                        "type" : "double",
+                        "defaultValue" : 1.04247104247104,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 990,
+                    "duration" : 90,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 1,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-height" : 1036.0,
+                      "default-width" : 1920.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 2,
+                "medias" : [
+                  {
+                    "id" : 26,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : 250.0,
+                      "line-spacing" : 0.0,
+                      "width" : 400.0,
+                      "word-wrap" : 1.0,
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Terminal",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : 1.0,
+                        "color-green" : 1.0,
+                        "color-red" : 1.0,
+                        "size" : 70.0,
+                        "tracking" : 0.0,
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontItalic","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontName","rangeEnd":8,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"underline","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":8,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontWeight","rangeEnd":8,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontSize","rangeEnd":8,"rangeStart":0,"value":100,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : -4.5588421926368e-11,
+                      "translation1" : 8.6743057181593e-11,
+                      "sourceCrop0" : 0.0,
+                      "sourceCrop1" : 0.0,
+                      "sourceCrop2" : 0.0,
+                      "sourceCrop3" : 0.0,
+                      "geometryCrop0" : 0.0,
+                      "geometryCrop1" : 0.0,
+                      "geometryCrop2" : 0.0,
+                      "geometryCrop3" : 0.0
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 0,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 27,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Python",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"underline","rangeEnd":6,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":6,"rangeStart":0,"value":100,"valueType":"double"},{"name":"strikethrough","rangeEnd":6,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":6,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":6,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"fontItalic","rangeEnd":6,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":6,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"kerning","rangeEnd":6,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 90,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 28,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Javascript",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontItalic","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":10,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":10,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"strikethrough","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontSize","rangeEnd":10,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fgColor","rangeEnd":10,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"underline","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 180,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 29,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "TypeScript",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontSize","rangeEnd":10,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fontWeight","rangeEnd":10,"rangeStart":0,"value":400,"valueType":"int"},{"name":"strikethrough","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontItalic","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":10,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"kerning","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fgColor","rangeEnd":10,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 270,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 30,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "React",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontSize","rangeEnd":5,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fontItalic","rangeEnd":5,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":5,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"strikethrough","rangeEnd":5,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":5,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fgColor","rangeEnd":5,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"kerning","rangeEnd":5,"rangeStart":0,"value":0,"valueType":"double"},{"name":"underline","rangeEnd":5,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 360,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 31,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Vue",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontName","rangeEnd":3,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"fontItalic","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":3,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fontWeight","rangeEnd":3,"rangeStart":0,"value":400,"valueType":"int"},{"name":"strikethrough","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":3,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"kerning","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 450,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 32,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "HTML",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"kerning","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontSize","rangeEnd":4,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fontItalic","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":4,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontName","rangeEnd":4,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"fontWeight","rangeEnd":4,"rangeStart":0,"value":400,"valueType":"int"},{"name":"underline","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 548,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 33,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Markdown",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":8,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"fontSize","rangeEnd":8,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fontName","rangeEnd":8,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"fontItalic","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":8,"rangeStart":0,"value":400,"valueType":"int"},{"name":"strikethrough","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"int"},{"name":"underline","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":8,"rangeStart":0,"value":0,"valueType":"double"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 630,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 34,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "JSON",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fgColor","rangeEnd":4,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"underline","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":4,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":4,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"kerning","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontSize","rangeEnd":4,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fontItalic","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 720,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 35,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "CSS",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontSize","rangeEnd":3,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fontItalic","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontWeight","rangeEnd":3,"rangeStart":0,"value":400,"valueType":"int"},{"name":"fontName","rangeEnd":3,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"underline","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"int"},{"name":"strikethrough","rangeEnd":3,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":3,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 810,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 36,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "SCSS",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"fontSize","rangeEnd":4,"rangeStart":0,"value":100,"valueType":"double"},{"name":"fgColor","rangeEnd":4,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"},{"name":"underline","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"},{"name":"kerning","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontItalic","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontName","rangeEnd":4,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"strikethrough","rangeEnd":4,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":4,"rangeStart":0,"value":400,"valueType":"int"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 900,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  },
+                  {
+                    "id" : 37,
+                    "_type" : "Callout",
+                    "def" : {
+                      "kind" : "remix",
+                      "shape" : "text",
+                      "style" : "bold",
+                      "height" : {
+                        "type" : "double",
+                        "defaultValue" : 250.0,
+                        "interp" : "linr"
+                      },
+                      "line-spacing" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "linr"
+                      },
+                      "width" : {
+                        "type" : "double",
+                        "defaultValue" : 400.0,
+                        "interp" : "linr"
+                      },
+                      "word-wrap" : {
+                        "type" : "double",
+                        "defaultValue" : 1.0,
+                        "interp" : "linr"
+                      },
+                      "horizontal-alignment" : "center",
+                      "resize-behavior" : "resizeText",
+                      "text" : "Dockerfile",
+                      "vertical-alignment" : "center",
+                      "font" : {
+                        "color-blue" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-green" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "color-red" : {
+                          "type" : "double",
+                          "defaultValue" : 1.0,
+                          "interp" : "linr"
+                        },
+                        "size" : {
+                          "type" : "double",
+                          "defaultValue" : 70.0,
+                          "interp" : "linr"
+                        },
+                        "tracking" : {
+                          "type" : "double",
+                          "defaultValue" : 0.0,
+                          "interp" : "linr"
+                        },
+                        "name" : "Source Sans Pro",
+                        "weight" : "Semi Bold"
+                      },
+                      "textAttributes" : {
+                        "type" : "textAttributeList",
+                        "keyframes" : [
+                          {
+                            "endTime" : 0,
+                            "time" : 0,
+                            "value" : [{"name":"underline","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontSize","rangeEnd":10,"rangeStart":0,"value":100,"valueType":"double"},{"name":"kerning","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"double"},{"name":"fontName","rangeEnd":10,"rangeStart":0,"value":"Agrandir Medium","valueType":"string"},{"name":"fontItalic","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fontWeight","rangeEnd":10,"rangeStart":0,"value":400,"valueType":"int"},{"name":"strikethrough","rangeEnd":10,"rangeStart":0,"value":0,"valueType":"int"},{"name":"fgColor","rangeEnd":10,"rangeStart":0,"value":"(255,255,255,255)","valueType":"color"}],
+                            "duration" : 0
+                          }
+                        ]
+                      }
+                    },
+                    "attributes" : {
+                      "autoRotateText" : true
+                    },
+                    "parameters" : {
+                      "translation0" : {
+                        "type" : "double",
+                        "defaultValue" : -4.5588421926368e-11,
+                        "interp" : "eioe"
+                      },
+                      "translation1" : {
+                        "type" : "double",
+                        "defaultValue" : 8.6743057181593e-11,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "sourceCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop0" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop1" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop2" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      },
+                      "geometryCrop3" : {
+                        "type" : "double",
+                        "defaultValue" : 0.0,
+                        "interp" : "eioe"
+                      }
+                    },
+                    "effects" : [
+
+                    ],
+                    "start" : 990,
+                    "duration" : 60,
+                    "mediaStart" : 0,
+                    "mediaDuration" : 60,
+                    "scalar" : 1,
+                    "metadata" : {
+                      "clipSpeedAttribute" : false,
+                      "default-HAlign" : "center",
+                      "default-LineSpace" : 0.0,
+                      "default-VAlign" : "center",
+                      "default-height" : 250.0,
+                      "default-text-attributes" : null,
+                      "default-translation0" : 0.0,
+                      "default-translation1" : 0.0,
+                      "default-width" : 400.0
+                    },
+                    "animationTracks" : {
+
+                    }
+                  }
+                ],
+                "transitions" : [
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 26
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 26
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 27
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 27
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 28
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 28
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 29
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 29
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 30
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 30
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 31
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 31
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 32
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 32
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 33
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 33
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 34
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 34
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 35
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 35
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 36
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 36
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 29,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "rightMedia" : 37
+                  },
+                  {
+                    "name" : "Fade",
+                    "duration" : 30,
+                    "trivial" : false,
+                    "reverse" : false,
+                    "bypass" : false,
+                    "useAudioPreRoll" : true,
+                    "useVisualPreRoll" : true,
+                    "leftMedia" : 37
+                  }
+                ]
+              },
+              {
+                "trackIndex" : 3,
+                "medias" : [
+                ]
+              }            ]
+          }
+        }
+      ]
+    },
+    "trackAttributes" : [
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      },
+      {
+        "ident" : "",
+        "audioMuted" : false,
+        "videoHidden" : false,
+        "magnetic" : false,
+        "matte" : 0,
+        "solo" : false,
+        "metadata" : {
+          "IsLocked" : "False",
+          "WinTrackHeight" : "56"
+        }
+      }
+    ],
+    "captionAttributes" : {
+      "enabled" : true,
+      "fontName" : "Arial",
+      "fontSize" : 64,
+      "backgroundColor" : [ 0, 0, 0, 191],
+      "foregroundColor" : [ 255, 255, 255, 255],
+      "lang" : "en",
+      "alignment" : 0,
+      "defaultFontSize" : true,
+      "opacity" : 0.5,
+      "backgroundEnabled" : true,
+      "backgroundOnlyAroundText" : true
+    },
+    "backgroundColor" : [ 43, 43, 43, 255]
+  },
+  "metadata" : {
+    "AutoSaveFile" : "C:\\Users\\Mohamed Anan\\AppData\\Local\\TechSmith\\Camtasia Studio\\20.0\\Auto-Saves\\Untitled Project68a7e69.autosave.tscproj",
+    "CanvasZoom" : 50,
+    "Date" : "2021-06-10 11:30:07 PM",
+    "Fit" : 0,
+    "IsAutoSave" : false,
+    "Language" : "ENU",
+    "ProfileName" : "",
+    "ProjectDimensionsChanged" : "1",
+    "Title" : "ScreenShots",
+    "audioNarrationNotes" : "",
+    "calloutStyle" : "All"
+  }
+}
