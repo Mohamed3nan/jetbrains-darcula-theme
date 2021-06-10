@@ -1,4 +1,7 @@
 .vscode/**
 .vscode-test/**
 .gitignore
+.gitattributes
+screenshots/**
+theme-icon.psd
 vsc-extension-quickstart.md
