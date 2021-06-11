@@ -76,6 +76,9 @@
 		"titleBar.activeBackground": "#3c3f41",
 		"titleBar.border": "#303030",
 		"titleBar.inactiveBackground": "#313335",
+    "notebook.focusedCellBorder": "#4787C9",
+    "notebook.cellHoverBackground": "#313335",
+    "notebook.focusedEditorBorder": "#505050",
 	},
     "tokenColors": [
         {
