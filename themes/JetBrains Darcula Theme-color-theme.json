@@ -162,14 +162,14 @@
       "name": "regexp constant character-class",
       "scope": "constant.other.character-class.regexp",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#6897BB"
       }
     },
     {
       "name": "regexp operator.quantifier",
       "scope": "keyword.operator.quantifier.regexp",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#6897BB"
       }
     },
     {
@@ -264,10 +264,41 @@
       }
     },
     {
-      "name": "js/ts variable.other.constant",
-      "scope": "variable.other.constant",
+      "name": "js/ts variables",
+      "scope": "variable.other.constant,variable.other.readwrite.js",
       "settings": {
-        //"foreground": "#e5c07b"
+        "foreground": "#9876AA"
+      }
+    }, 
+    {
+      "name": "js",
+      "scope": "meta.definition.variable.js",
+      "settings": {
+        "foreground": "#9876AA"
+      }
+    },
+    {
+      "name": "js/ts Doc",
+      "scope": "comment.block.documentation",
+      "settings": {
+        "foreground": "#629755",
+        "fontStyle": "italic"
+      }
+    },
+    {
+      "name": "js Doc",
+      "scope": "storage.type.class.jsdoc",
+      "settings": {
+        "foreground": "#629755",
+        "fontStyle": "italic bold underline"
+      }
+    },
+    {
+      "name": "js Doc",
+      "scope": "variable.other.jsdoc,entity.name.type.instance.jsdoc",
+      "settings": {
+        "foreground": "#8A653E",
+        "fontStyle": ""
       }
     },
     {
@@ -275,6 +306,13 @@
       "scope": "punctuation.terminator.statement.js,punctuation.separator.parameter.js,punctuation.separator.comma.js",
       "settings": {
         "foreground": "#CC7832"
+      }
+    },
+    {
+      "name": "js meta.decorator.js",
+      "scope": "meta.decorator.js",
+      "settings": {
+        "foreground": "#BBB529"
       }
     },
     {
@@ -333,7 +371,7 @@
       "name": "operator logical",
       "scope": "keyword.operator.logical",
       "settings": {
-        "foreground": "#8888C6"
+        "foreground": "#abb2bf"
       }
     },
     {
@@ -424,14 +462,14 @@
       "name": "entity.name.type.module",
       "scope": "entity.name.type.module",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#A9B7C6"
       }
     },
     {
       "name": "js variable readwrite",
-      "scope": "variable.other.readwrite,meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
+      "scope": "meta.object-literal.key,support.variable.property,support.variable.object.process,support.variable.object.node",
       "settings": {
-        //"foreground": "#e06c75"
+        "foreground": "#9876AA"
       }
     },
     {
@@ -484,7 +522,7 @@
     },
     {
       "name": "js variable property",
-      "scope": "support.variable.property.js,variable.other.property.js,meta.object-literal.key",
+      "scope": "support.variable.property.js,variable.other.property.js",
       "settings": {
         "foreground": "#9876AA"
       }
@@ -803,7 +841,7 @@
       "name": "Methods",
       "scope": "keyword.other.special-method",
       "settings": {
-        "foreground": "#FFC66D"
+        "foreground": "#CC7832"
       }
     },
     {
@@ -1108,14 +1146,14 @@
       "name": "Regular Expressions",
       "scope": "string.regexp",
       "settings": {
-        "foreground": "#8888C6"
+        "foreground": "#6897BB"
       }
     },
     {
       "name": "Escape Characters",
       "scope": "constant.character.escape",
       "settings": {
-        "foreground": "#CC682E"
+        "foreground": "#CC7832"
       }
     },
     {
@@ -1326,7 +1364,7 @@
       "name": "php regexp operator",
       "scope": "keyword.operator.regexp.php",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#6897BB"
       }
     },
     {
@@ -1410,7 +1448,7 @@
       "name": "ts primitive/builtin types",
       "scope": "support.type.primitive.ts,support.type.builtin.ts,support.type.primitive.tsx,support.type.builtin.tsx",
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#CC7832"
       }
     },
     {
@@ -1502,7 +1540,7 @@
         "support.type.primitive"
       ],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#CC7832"
       }
     },
     {
@@ -1809,7 +1847,7 @@
         "constant.character.character-class.regexp.xi"
       ],
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#6897BB"
       }
     },
     {
@@ -1818,7 +1856,7 @@
         "constant.regexp.xi"
       ],
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#6897BB"
       }
     },
     {
