@@ -368,19 +368,33 @@
       "name": "css color standard name",
       "scope": "support.constant.color.w3c-standard-color-name.css,support.constant.color.w3c-standard-color-name.scss",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#A5C261"
       }
     },
     {
-      "name": "css comma",
-      "scope": "punctuation.separator.list.comma.css",
+      "name": "css",
+      "scope": "constant.other.color.rgb-value.hex.css,punctuation.definition.constant.css",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#6897BB"
       }
     },
     {
-      "name": "css attribute-name.id",
-      "scope": "support.constant.color.w3c-standard-color-name.css",
+      "name": "css url",
+      "scope": "variable.parameter.url.css",
+      "settings": {
+        "foreground": "#287BDE"
+      }
+    },
+    {
+      "name": "css unicode",
+      "scope": "constant.other.unicode-range.css",
+      "settings": {
+        "foreground": "#E8BF6A"
+      }
+    },
+    {
+      "name": "css comma/punctuation",
+      "scope": "punctuation.separator.list.comma.css,punctuation.terminator.rule.css",
       "settings": {
         "foreground": "#CC7832"
       }
@@ -390,6 +404,13 @@
       "scope": "support.type.vendored.property-name.css",
       "settings": {
         "foreground": "#8888C6"
+      }
+    },
+    {
+      "name": "Attribute class",
+      "scope": "entity.other.attribute-name.class.css",
+      "settings": {
+        "foreground": "#E8BF6A"
       }
     },
     {
@@ -553,6 +574,13 @@
       }
     },
     {
+      "name": "python parameter",
+      "scope": "variable.parameter.function-call.python",
+      "settings": {
+        "foreground": "#AA4926"
+      }
+    },
+    {
       "name": "python type",
       "scope": "support.type.python",
       "settings": {
@@ -577,7 +605,21 @@
       "name": "python block",
       "scope": "punctuation.definition.arguments.begin.python,punctuation.definition.arguments.end.python,punctuation.separator.arguments.python,punctuation.definition.list.begin.python,punctuation.definition.list.end.python",
       "settings": {
-        "foreground": "#abb2bf"
+        "foreground": "#bfb2ab"
+      }
+    },
+    {
+      "name": "python decorator",
+      "scope": "entity.name.function.decorator.python",
+      "settings": {
+        "foreground": "#BBB529"
+      }
+    },
+    {
+      "name": "python quoted binary",
+      "scope": "string.quoted.binary.single.python",
+      "settings": {
+        "foreground": "#A5C261"
       }
     },
     {
@@ -910,17 +952,10 @@
       }
     },
     {
-      "name": "Attribute class",
-      "scope": "entity.other.attribute-name.class.css",
-      "settings": {
-        "foreground": "#CC7832"
-      }
-    },
-    {
       "name": "Selector",
       "scope": "meta.selector",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#E8BF6A"
       }
     },
     {
@@ -1594,7 +1629,7 @@
         "constant.character.entity"
       ],
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#6D9CBE"
       }
     },
     {
