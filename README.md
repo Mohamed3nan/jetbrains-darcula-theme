@@ -18,13 +18,17 @@ Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter
 ```ext install Anan.jetbrains-darcula-theme```
 
 or:
-
 [Download from VisualStudio Marketplace](https://marketplace.visualstudio.com/items?itemName=Anan.jetbrains-darcula-theme)
 
-
-## Why?!!
-I've tried most of Darcula themes available on VisualStudio Marketplace, none of them is close enough to the Jetbrains IDEs vibe for my liking, so I decided to create my own with some improvements.
-
+## JetBrains Mono Font Installation
+- Downloaded and install JetBrains Mono font https://www.jetbrains.com/lp/mono
+- Add this snippet in your "settings.json":
+  ```json
+    "editor.fontFamily": "JetBrains Mono, Consolas, 'Courier New', monospace",
+    "editor.fontSize": 13,
+    "editor.lineHeight": 22,
+    "editor.fontWeight": "300",
+    ```
 
 ## Screenshots
 ![ScreenShot](screenshots/ScreenShots.gif)
