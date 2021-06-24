@@ -6,7 +6,7 @@
     "activityBar.border": "#323232",
     "activityBar.foreground": "#f0f0f0",
     "breadcrumb.background": "#313335",
-    "dropdown.border": "#646464",
+    "dropdown.border": "#323232",
     "dropdown.foreground": "#bbbbbb",
     "dropdown.listBackground": "#646464",
     "editor.background": "#2b2b2b",
@@ -15,7 +15,7 @@
     "editor.lineHighlightBackground": "#323232",
     "editor.selectionBackground": "#264f78",
     "editorCodeLens.foreground": "#635656",
-    "editorGroup.border": "#505050",
+    "editorGroup.border": "#323232",
     "editorGroupHeader.tabsBackground": "#3c3f41",
     "editorGroupHeader.tabsBorder": "#505050",
     "editorGutter.background": "#313335",
@@ -26,26 +26,24 @@
     "editorRuler.foreground": "#464646",
     "editorSuggestWidget.background": "#3c3f41",
     "editorWidget.background": "#313335",
-    "editorWidget.border": "#464646",
+    "editorWidget.border": "#323232",
     "focusBorder": "#FFFFFF00",
     "gitDecoration.ignoredResourceForeground": "#6d6d6d",
     "input.background": "#45494a",
-    "input.border": "#646464",
+    "input.border": "#323232",
     "input.foreground": "#bbbbbb",
-    "list.activeSelectionForeground": "#adadad",
-    "list.activeSelectionBackground": "#505050",
+    "list.activeSelectionBackground": "#4b6eaf",
     "list.dropBackground": "#474b4d",
-    "list.focusBackground": "#505050",
-    "list.hoverBackground": "#505050",
+    "list.focusBackground": "#4b6eaf",
+    "list.hoverBackground": "#4b6eaf",
     "list.inactiveSelectionBackground": "#313335",
     "list.errorForeground": "#bbbbbb",
     "list.warningForeground": "#bbbbbb",
     "menu.background": "#3c3f41",
-    "menu.border": "#505050",
     "menu.foreground": "#adadad",
     "panel.background": "#3c3f41",
     "panel.border": "#323232",
-    "panelTitle.activeBorder": "#4a7a88",
+    "panelTitle.activeBorder": "#4b6eaf",
     "panelTitle.activeForeground": "#d3d3d3",
     "settings.headerForeground": "#bbbbbb",
     "sideBar.background": "#3c3f41",
@@ -54,7 +52,7 @@
     "sideBarSectionHeader.background": "#3b4754",
     "sideBarSectionHeader.border": "#323232",
     "statusBar.background": "#3c3f41",
-    "statusBar.border": "#464646",
+    "statusBar.border": "#323232",
     "statusBar.debuggingBackground": "#864d30",
     "statusBar.debuggingBorder": "#464646",
     "statusBar.debuggingForeground": "#cccccc",
@@ -71,10 +69,10 @@
     "tab.unfocusedActiveForeground": "#bbbbbb",
     "tab.unfocusedHoverBackground": "#27292a",
     "tab.unfocusedInactiveForeground": "#bbbbbb",
-    "terminal.background": "#252526",
+    "terminal.background": "#2b2b2b",
     "terminal.foreground": "#bbbbbb",
     "titleBar.activeBackground": "#3c3f41",
-    "titleBar.border": "#303030",
+    "titleBar.border": "#323232",
     "titleBar.inactiveBackground": "#313335",
     "notebook.focusedCellBorder": "#4787C9",
     "notebook.cellHoverBackground": "#313335",
@@ -1635,7 +1633,7 @@
         "keyword.operator.assignment.go"
       ],
       "settings": {
-        "foreground": "#e5c07b"
+        //"foreground": "#e5c07b"
       }
     },
     {
@@ -1645,16 +1643,64 @@
         "keyword.operator.address.go"
       ],
       "settings": {
+        //"foreground": "#CC7832"
+      }
+    },
+    {
+      "name": "entity.name.type.go",
+      "scope": [
+        "entity.name.type.go"
+      ],
+      "settings": {
+        "foreground": "#A9B7C6"
+      }
+    },
+    {
+      "name": "Go package name and alias import",
+      "scope": [
+        "entity.name.package.go",
+        "entity.alias.import.go"
+      ],
+      "settings": {
+        "foreground": "#AFBF7E"
+      }
+    },
+    {
+      "name": "support.function.go",
+      "scope": [
+        "support.function.go"
+      ],
+      "settings": {
+        "foreground": "#B09D79"
+      }
+    },
+    {
+      "name": "string",
+      "scope": [
+        "string.quoted.rune.go",
+        "constant.other.rune.go"
+      ],
+      "settings": {
+        "foreground": "#6A8759"
+      }
+    },
+    {
+      "name": "punctuation and terminator",
+      "scope": [
+        "punctuation.other.comma.go",
+        "punctuation.terminator.go"
+      ],
+      "settings": {
         "foreground": "#CC7832"
       }
     },
     {
-      "name": "Go package name",
+      "name": "support.function.builtin.go",
       "scope": [
-        "entity.name.package.go"
+        "support.function.builtin.go"
       ],
       "settings": {
-        "foreground": "#e5c07b"
+        "foreground": "#CC7832"
       }
     },
     {

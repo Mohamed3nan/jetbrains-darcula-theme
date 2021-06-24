@@ -3,8 +3,14 @@
 All notable changes to the **JetBrains Darcula Theme** extension will be documented in this file.
 
 <!--- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
+
+## [1.0.7]
+- UI enhancements
+- Golang support
+
 ## [1.0.6]
 - JetBrains Mono Font Installation Tutorial (README.md)
+
 ## [1.0.5]
 - Improve HTML, CSS, JavaScript, MarkDown, and DockerFile
 

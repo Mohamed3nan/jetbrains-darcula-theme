@@ -130,6 +130,7 @@ Please check the official documentation,
 - JSON
 - CSS, SCSS
 - Dockerfile
+- Go
 - More and more...
 
 
