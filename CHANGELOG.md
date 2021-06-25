@@ -4,6 +4,9 @@ All notable changes to the **JetBrains Darcula Theme** extension will be documen
 
 <!--- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.0.8]
+- HTML & CSS improvements
+
 ## [1.0.7]
 - UI enhancements
 - Golang support
