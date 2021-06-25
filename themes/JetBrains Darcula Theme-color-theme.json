@@ -390,7 +390,7 @@
       "name": "support.constant.property-value.scss",
       "scope": "support.constant.property-value.scss,support.constant.property-value.css",
       "settings": {
-        "foreground": "#CC7832"
+        "foreground": "#A5C261"
       }
     },
     {
@@ -900,7 +900,7 @@
       "name": "Support type",
       "scope": "support.type.property-name",
       "settings": {
-        "foreground": "#bebfab"
+        "foreground": "#BABABA"
       }
     },
     {
@@ -1012,7 +1012,7 @@
       "name": "Units",
       "scope": "keyword.other.unit",
       "settings": {
-        "foreground": "#e06c75"
+        "foreground": "#A5C261"
       }
     },
     {
