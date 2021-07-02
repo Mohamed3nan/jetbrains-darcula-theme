@@ -59,55 +59,11 @@ or use the setting `editor.tokenColorCustomizations`
   }
 }
 ```
-
-### Italic 
-You could set this in your setting.json to make code be italic
+### Enablement of semantic highlighting
+By default [Semantic Highlighting](https://code.visualstudio.com/api/language-extensions/semantic-highlight-guide#enablement-of-semantic-highlighting) value is **false** in this theme, you can add this snippet in your "settings.json" file to disable it:
 ```json
-"editor.tokenColorCustomizations": {
-    "textMateRules": [
-      {
-        "name": "italic font",
-        "scope": [
-          "comment",
-          "keyword",
-          "storage",
-          "keyword.control",
-          "keyword.control.from",
-          "keyword.control.flow",
-          "keyword.operator.new",
-          "keyword.control.import",
-          "keyword.control.export",
-          "keyword.control.default",
-          "keyword.control.trycatch",
-          "keyword.control.conditional",
-          "storage.type",
-          "storage.type.class",
-          "storage.modifier.tsx",
-          "storage.type.function",
-          "storage.modifier.async",
-          "variable.language",
-          "variable.language.this",
-          "variable.language.super",
-          "meta.class",
-          "meta.var.expr",
-          "constant.language.null",
-          "support.type.primitive",
-          "entity.name.method.js",
-          "entity.other.attribute-name",
-          "punctuation.definition.comment",
-          "text.html.basic entity.other.attribute-name",
-          "tag.decorator.js entity.name.tag.js",
-          "tag.decorator.js punctuation.definition.tag.js",
-          "source.js constant.other.object.key.js string.unquoted.label.js",
-        ],
-        "settings": {
-          "fontStyle": "italic",
-        }
-      },
-    ]
-  }
+"editor.semanticHighlighting.enabled": true
 ```
-
 
 Please check the official documentation,
 [Theme Color Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference) and

@@ -263,7 +263,7 @@
     },
     {
       "name": "js/ts variables",
-      "scope": "variable.other.constant,variable.other.readwrite.js",
+      "scope": "variable.other.constant,variable.other.readwrite,variable.object.property",
       "settings": {
         "foreground": "#9876AA"
       }
@@ -786,6 +786,14 @@
       "name": "Classes",
       "scope": "support.class",
       "settings": {
+        "foreground": "#9876AA"
+      }
+    },
+    {
+      "name": "Classes",
+      "scope": "support.class.builtin",
+      "settings": {
+        "fontStyle": "italic bold",
         "foreground": "#9876AA"
       }
     },
@@ -2132,6 +2140,7 @@
         "variable.other.object"
       ],
       "settings": {
+        "fontStyle": "italic bold",
         "foreground": "#9876AA"
       }
     },
