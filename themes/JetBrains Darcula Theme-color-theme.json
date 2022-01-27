@@ -6,6 +6,8 @@
     "activityBar.border": "#323232",
     "activityBar.foreground": "#f0f0f0",
     "breadcrumb.background": "#313335",
+    "button.background": "#4b6eaf",
+    "button.hoverBackground": "#4b6eaf",
     "dropdown.border": "#323232",
     "dropdown.foreground": "#bbbbbb",
     "dropdown.listBackground": "#646464",
