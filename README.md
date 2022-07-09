@@ -1,9 +1,8 @@
 # JetBrains Darcula Theme for Visual Studio Code
-[![Open in Visual Studio Code](https://open.vscode.dev/badges/open-in-vscode.svg)](https://open.vscode.dev/mohamed3nan/jetbrains-darcula-theme)
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.svg)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.svg)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.svg)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.svg)](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.svg)
+[![Marketplace](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.png)
+[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.png)
+[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.png)
+[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.png)
 
 ## Description
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
