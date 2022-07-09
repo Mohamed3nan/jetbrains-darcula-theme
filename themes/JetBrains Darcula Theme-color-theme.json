@@ -603,6 +603,13 @@
       }
     },
     {
+      "name": "CPP class name",
+      "scope": "entity.name.type.cpp, meta.qualified_type.cpp, meta.function.definition.cpp, source.cpp",
+      "settings": {
+        "foreground": "#c3c3e4"
+      }
+    },
+    {
       "name": "python parameter",
       "scope": "variable.parameter.function.language.python",
       "settings": {
