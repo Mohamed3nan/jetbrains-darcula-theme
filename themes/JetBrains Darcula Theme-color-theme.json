@@ -933,6 +933,13 @@
       }
     },
     {
+      "name": "meta tag jsx",
+      "scope": "meta.jsx",
+      "settings": {
+        "foreground": "#A9B7C6"
+      }
+    },
+    {
       "name": "Strings",
       "scope": "string",
       "settings": {
