@@ -227,8 +227,15 @@
       }
     },
     {
+      "name": "c++",
+      "scope": "keyword.control.directive.pragma.cpp,keyword.control.directive.include.cpp",
+      "settings": {
+        "foreground": "#BBB529"
+      }
+    },
+    {
       "name": "c++ block",
-      "scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c",
+      "scope": "punctuation.section.block.begin.bracket.curly.cpp,punctuation.section.block.end.bracket.curly.cpp,punctuation.terminator.statement.c,punctuation.section.block.begin.bracket.curly.c,punctuation.section.block.end.bracket.curly.c,punctuation.section.parens.begin.bracket.round.c,punctuation.section.parens.end.bracket.round.c,punctuation.section.parameters.begin.bracket.round.c,punctuation.section.parameters.end.bracket.round.c,entity.other.attribute-name.pragma.preprocessor.cpp",
       "settings": {
         "foreground": "#abb2bf"
       }
@@ -2174,6 +2181,15 @@
       ],
       "settings": {
         "foreground": "#e5c07b"
+      }
+    },
+    {
+      "name": "log.error",
+      "scope":[
+        "log.error"
+      ],
+      "settings": {
+        "foreground": "#FF0000",
       }
     }
   ],

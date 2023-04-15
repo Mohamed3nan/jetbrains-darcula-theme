@@ -4,6 +4,9 @@ All notable changes to the **JetBrains Darcula Theme** extension will be documen
 
 <!--- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
 
+## [1.2.0]
+- C++ & log files improvements
+
 ## [1.1.0]
 - JS & C++ improvements
 

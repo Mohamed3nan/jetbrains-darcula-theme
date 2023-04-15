@@ -1,12 +1,5 @@
 # JetBrains Darcula Theme for Visual Studio Code
-[![Marketplace](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.png)
-[![Installs](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.png)
-[![Downloads](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.png)
-[![Rating](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.png)
-
-## Description
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
-
 
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
@@ -90,7 +83,7 @@ Please check the official documentation,
 If you want to add more syntax support or have any idea to improve highlighting, feel free to make a pull request or open a new issue.
 
 
-## Resources
+## Inspiration
 - [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
 - [PyCharm Theme](https://github.com/nicohlr/vscode-pycharm-theme)
 - [JetBrains](https://www.jetbrains.com)
