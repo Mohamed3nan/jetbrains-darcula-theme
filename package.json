@@ -3,7 +3,7 @@
     "displayName": "JetBrains Darcula Theme",
     "description": "A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements",
     "publisher": "Anan",
-    "version": "1.1.0",
+    "version": "1.2.0",
     "license": "MIT",
     "icon": "theme-icon.png",
     "galleryBanner": {
@@ -36,22 +36,22 @@
     },
 	"badges": [
 		{
-			"url": "https://vsmarketplacebadge.apphb.com/version/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.svg",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Version"
 		},
         {
-			"url": "https://vsmarketplacebadge.apphb.com/installs-short/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/installs-short/Anan.jetbrains-darcula-theme.svg",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Installs"
 		},
         {
-			"url": "https://vsmarketplacebadge.apphb.com/downloads-short/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/downloads-short/Anan.jetbrains-darcula-theme.svg",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Downloads"
 		},
         {
-			"url": "https://vsmarketplacebadge.apphb.com/rating-star/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.svg",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Rating"
 		}
