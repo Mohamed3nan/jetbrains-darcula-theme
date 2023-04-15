@@ -36,22 +36,22 @@
     },
 	"badges": [
 		{
-			"url": "https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.png",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Version"
 		},
         {
-			"url": "https://vsmarketplacebadges.dev/installs-short/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/installs-short/Anan.jetbrains-darcula-theme.png",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Installs"
 		},
         {
-			"url": "https://vsmarketplacebadges.dev/downloads-short/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/downloads-short/Anan.jetbrains-darcula-theme.png",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Downloads"
 		},
         {
-			"url": "https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.svg",
+			"url": "https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.png",
 			"href": "https://marketplace.visualstudio.com/items/Anan.jetbrains-darcula-theme",
 			"description": "Rating"
 		}
