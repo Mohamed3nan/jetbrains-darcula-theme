@@ -2191,7 +2191,151 @@
       "settings": {
         "foreground": "#FF0000",
       }
-    }
+    },
+    {
+      "name": "rust macro functions",
+      "scope": [
+        "entity.name.function.macro.rust",
+        "entity.name.function.macro.rules.rust",
+        "meta.macro.rules.rust",
+      ],
+      "settings": {
+        "foreground": "#4EADE5",
+      }
+    },
+    {
+      "name": "rust attributes",
+      "scope": [
+        "punctuation.definition.attribute.rust",
+        "meta.attribute.rust",
+      ],
+      "settings": {
+        "foreground": "#BBB529",
+      }
+    },
+    {
+      "name": "entity.name.type.rust",
+      "scope": [
+        "entity.name.type.rust",
+      ],
+      "settings": {
+        "foreground": "#9876AA",
+      }
+    },
+    {
+      "name": "rust macro bang",
+      "scope": [
+        "keyword.operator.macro.dollar.rust",
+        "variable.other.metavariable.specifier.rust"
+      ],
+      "settings": {
+        "foreground": "#4EADE5",
+      }
+    },
+    {
+      "name": "rust macro function declaration",
+      "scope": [
+        "variable.other.metavariable.name.rust",
+      ],
+      "settings": {
+        "foreground": "#ffc66d",
+      }
+    },
+    {
+      "name": "rust lifetime",
+      "scope": [
+        "entity.name.type.lifetime.rust",
+        "punctuation.definition.lifetime.rust",
+      ],
+      "settings": {
+        "foreground": "#20999D",
+      }
+    },
+    {
+      "name": "rust punctiation",
+      "scope": [
+        "punctuation.semi.rust",
+        "punctuation.comma.rust",
+        "keyword.operator.question.rust",
+        "punctuation.definition.interpolation.rust",
+      ],
+      "settings": {
+        "foreground": "#CC7832",
+      }
+    },
+    {
+      "name": "rust meta.function.call.rust",
+      "scope": "meta.function.call.rust",
+      "settings": {
+        "foreground": "#9876AA",
+      }
+    },
+    {
+      "name": "rust const variable",
+      "scope": [
+        "constant.other.caps.rust",
+      ],
+      "settings": {
+        "foreground": "#9876AA",
+      }
+    },
+    {
+      "name": "rust result",
+      "scope": [
+        "entity.name.type.result.rust",
+      ],
+      "settings": {
+        "foreground": "#9876AA",
+      }
+    },
+    {
+      "name": "rust numeric types",
+      "scope": [
+        "entity.name.type.numeric.rust",
+      ],
+      "settings": {
+        "foreground": "#CC7832",
+      }
+    },
+    {
+      "name": "rust numbers",
+      "scope": [
+        "constant.numeric.decimal.rust",
+        "constant.numeric.float.rust",
+      ],
+      "settings": {
+        "foreground": "#6897BB",
+      }
+    },
+    {
+      "name": "rust variable.other.readwrite",
+      "scope": [
+        "variable.other.readwrite",
+        "variable.other.rust",
+        "keyword.operator.assignment.rust",
+      ],
+      "settings": {
+        "foreground": "#abb2bf",
+      }
+    },
+    {
+      "name": "rust functions",
+      "scope": [
+        "entity.name.function.rust",
+      ],
+      "settings": {
+        "foreground": "#ffc66d",
+      }
+    },
+    {
+      "name": "rust variables",
+      "scope": [
+        "variable.other.rust",
+      ],
+      "settings": {
+        "foreground": "#abb2bf",
+      }
+    },
   ],
   "semanticHighlighting": false
 }
