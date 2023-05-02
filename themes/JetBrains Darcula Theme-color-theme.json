@@ -2310,7 +2310,7 @@
     {
       "name": "rust variable.other.readwrite",
       "scope": [
-        "variable.other.readwrite",
+        "variable.other.readwrite.rust",
         "variable.other.rust",
         "keyword.operator.assignment.rust",
       ],
