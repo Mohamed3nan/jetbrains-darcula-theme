@@ -1,12 +1,15 @@
 # JetBrains Darcula Theme for Visual Studio Code
-[![Marketplace](https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.png)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/zhuangtongfa.Material-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/installs-short/Anan.jetbrains-darcula-theme.png)
 [![Downloads](https://vsmarketplacebadges.dev/downloads-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/downloads-short/Anan.jetbrains-darcula-theme.png)
 [![Rating](https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.png)
+[![Marketplace](https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.png)
 
-## Description
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
 
+## Sponsor
+Contact me if you interesting to be a sponsor!
+![Report](screenshots/report.png)
 
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
@@ -73,17 +76,7 @@ Please check the official documentation,
 
 
 ## Syntax Support
-- Python
-- Javascript
-- TypeScript
-- React, Vue
-- HTML
-- Markdown
-- JSON
-- CSS, SCSS
-- Dockerfile
-- Go
-- More and more...
+Python, Javascript, TypeScript, React, Vue, HTML, Markdown, JSON, CSS, SCSS, Dockerfile, Go, and more...
 
 
 ## Contribution
@@ -91,11 +84,7 @@ If you want to add more syntax support or have any idea to improve highlighting,
 
 
 ## Inspiration
-- [One Dark Pro](https://github.com/Binaryify/OneDark-Pro)
-- [PyCharm Theme](https://github.com/nicohlr/vscode-pycharm-theme)
-- [JetBrains](https://www.jetbrains.com)
-- [PyCharm](https://www.jetbrains.com/pycharm/)
-- [WebStorm](https://www.jetbrains.com/webstorm/)
+[One Dark Pro](https://github.com/Binaryify/OneDark-Pro), [PyCharm Theme](https://github.com/nicohlr/vscode-pycharm-theme), [JetBrains](https://www.jetbrains.com), [PyCharm](https://www.jetbrains.com/pycharm/), [WebStorm](https://www.jetbrains.com/webstorm/)
 
 
 ## Changelog
