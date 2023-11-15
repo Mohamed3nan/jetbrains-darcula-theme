@@ -8,7 +8,7 @@
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
 
 ## Sponsor
-Contact me if you interesting to be a sponsor!
+Please contact me if you are interested in becoming a sponsor!
 ![Report](screenshots/report.png)
 
 ## Installation
