@@ -1,5 +1,5 @@
 # JetBrains Darcula Theme for Visual Studio Code
-[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/zhuangtongfa.Material-theme)
+[![Preview in vscode.dev](https://img.shields.io/badge/preview%20in-vscode.dev-blue)](https://vscode.dev/theme/Anan.jetbrains-darcula-theme)
 [![Installs](https://vsmarketplacebadges.dev/installs-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/installs-short/Anan.jetbrains-darcula-theme.png)
 [![Downloads](https://vsmarketplacebadges.dev/downloads-short/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/downloads-short/Anan.jetbrains-darcula-theme.png)
 [![Rating](https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.png)
