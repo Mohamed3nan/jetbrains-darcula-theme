@@ -2,46 +2,61 @@
 
 All notable changes to the **JetBrains Darcula Theme** extension will be documented in this file.
 
-<!--- Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file. -->
+## \[1.3.2\]
 
-## [1.3.0]
+- Comments and general improvements
+
+## \[1.3.0\]
+
 - Rust improvements
 
-## [1.2.0]
+## \[1.2.0\]
+
 - C++ & log files improvements
 
-## [1.1.0]
+## \[1.1.0\]
+
 - JS & C++ improvements
 
-## [1.0.9]
+## \[1.0.9\]
+
 - JS & TS improvements
 
-## [1.0.8]
+## \[1.0.8\]
+
 - HTML & CSS improvements
 
-## [1.0.7]
+## \[1.0.7\]
+
 - UI enhancements
 - Golang support
 
-## [1.0.6]
+## \[1.0.6\]
+
 - JetBrains Mono Font Installation Tutorial (README.md)
 
-## [1.0.5]
+## \[1.0.5\]
+
 - Improve HTML, CSS, JavaScript, MarkDown, and DockerFile
 
-## [1.0.4]
+## \[1.0.4\]
+
 - Reduce extension size
 - Edit README.md
 
-## [1.0.3]
+## \[1.0.3\]
+
 - Change notebook cell color
 - Edit README.md
 
-## [1.0.2]
+## \[1.0.2\]
+
 - Edit README.md
 
-## [1.0.1]
+## \[1.0.1\]
+
 - Add badges to README.md
 
-## [1.0.0]
+## \[1.0.0\]
+
 - Initial release
