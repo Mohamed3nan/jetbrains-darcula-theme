@@ -2,6 +2,9 @@
 
 All notable changes to the **JetBrains Darcula Theme** extension will be documented in this file.
 
+## \[1.3.4\]
+
+- Edit Readme
 
 ## \[1.3.3\]
 

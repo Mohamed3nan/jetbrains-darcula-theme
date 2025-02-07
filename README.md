@@ -6,11 +6,21 @@
 [![Rating](https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/rating-star/Anan.jetbrains-darcula-theme.png)
 [![Marketplace](https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.png)](https://vsmarketplacebadges.dev/version/Anan.jetbrains-darcula-theme.png)
 
+
 <a href='https://ko-fi.com/mohamed3nan' target='_blank' title='Thank you!'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi3.png?v=6' border='0' alt='Buy Me a Coffee' /></a>
 
 
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
 
+## SPONSORS
+**Companion Window | Always on Top Chrome Extension**  
+Enhance your workflow with a floating window that keeps webpage in view.
+
+- Boost your productivity with a dedicated, always-on-top window.
+- Perfect for keeping AI assistants and any website visible.
+- Quick access via toolbar or context menu.
+
+[Learn more & get it now](https://chromewebstore.google.com/detail/companion-window-always-o/hhneckfekhpegclkfhefepcjmcnmnpae)
 
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
