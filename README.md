@@ -13,14 +13,11 @@
 A theme extension for Visual Studio Code based on Darcula theme from Jetbrains IDEs with some improvements.
 
 ## SPONSORS
-**Companion Window | Always on Top Chrome Extension**  
-Enhance your workflow with a floating window that keeps webpage in view.
+**Chat.CX — Own the future of Chat and CX**  
 
-- Boost your productivity with a dedicated, always-on-top window.
-- Perfect for keeping AI assistants and any website visible.
-- Quick access via toolbar or context menu.
+The future‑proof domain for the next generation of CX: Customer eXperience, Chat eXperience, and Chrome eXtensions. From AI assistants and conversational agents to messaging, engagement, and support.
 
-[Learn more & get it now](https://chromewebstore.google.com/detail/companion-window-always-o/hhneckfekhpegclkfhefepcjmcnmnpae)
+[Explore Chat.CX](https://chat.cx)
 
 ## Installation
 Launch VS Code Quick Open (Ctrl+P), paste the following command, and press enter.
