@@ -67,8 +67,5 @@
                 "path": "./themes/JetBrains Darcula Theme-color-theme.json"
             }
         ]
-    },
-    "dependencies": {
-        "@vscode/vsce": "^3.6.0"
     }
 }
