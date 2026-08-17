@@ -37,8 +37,8 @@
     "list.focusBackground": "#4b6eaf",
     "list.hoverBackground": "#4b6eaf",
     "list.inactiveSelectionBackground": "#313335",
-    "list.errorForeground": "#bbbbbb",
-    "list.warningForeground": "#bbbbbb",
+    "list.errorForeground": "#FF6B68",
+    "list.warningForeground": "#BBB529",
     "menu.background": "#3c3f41",
     "menu.foreground": "#adadad",
     "panel.background": "#3c3f41",
@@ -80,6 +80,16 @@
     "editorOverviewRuler.border": "#46464621"
   },
   "tokenColors": [
+    {
+      "name": "Reset embedded language blocks to the default foreground",
+      "scope": [
+        "meta.embedded",
+        "source.groovy.embedded"
+      ],
+      "settings": {
+        "foreground": "#A9B7C6"
+      }
+    },
     {
       "name": "unison punctuation",
       "scope": "punctuation.definition.delayed.unison,punctuation.definition.list.begin.unison,punctuation.definition.list.end.unison,punctuation.definition.ability.begin.unison,punctuation.definition.ability.end.unison,punctuation.operator.assignment.as.unison,punctuation.separator.pipe.unison,punctuation.separator.delimiter.unison,punctuation.definition.hash.unison",
@@ -674,10 +684,10 @@
       }
     },
     {
-      "name": "python function-call.generic",
+      "name": "python function-call.generic (calls are not highlighted, matching PyCharm)",
       "scope": "meta.function-call.generic.python",
       "settings": {
-        "foreground": "#FFC66D"
+        "foreground": "#A9B7C6"
       }
     },
     {

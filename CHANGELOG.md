@@ -2,6 +2,13 @@
 
 All notable changes to the **JetBrains Darcula Theme** extension will be documented in this file.
 
+## \[1.3.6\]
+
+- Embedded language blocks now reset to the default foreground instead of inheriting the previous color (#19)
+- Distinct colors for `list.errorForeground` (red) and `list.warningForeground` (yellow) in the explorer and lists (#18)
+- Python function and class calls are no longer highlighted, matching PyCharm (#12)
+- Edit Readme
+
 ## \[1.3.4\]
 
 - Edit Readme
